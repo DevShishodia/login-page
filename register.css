@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+header{
+    margin: 0;
+    font-size: 15px;
+    background-color: rgb(229, 255, 0);
+    padding: 1px;
+    text-align: center;
+    font-family: 'Rock Salt', cursive;
+    color: brown;
+}
+main{
+    background-color: rgb(187, 197, 95)n;
+    
+    margin-left: 400px;
+    margin-right: 400px;
+}
+form{
+    background-color: gainsboro;
+    
+}
+div{
+    margin-left: 165px;
+    padding-right: 70px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+footer{
+    background-color: rgb(229, 255, 0);
+    padding: 38px;
+}
